@@ -9,3 +9,6 @@ body {
 header a{
   text-decoration: none;
 }
+header ul{
+  display: inline;
+}
