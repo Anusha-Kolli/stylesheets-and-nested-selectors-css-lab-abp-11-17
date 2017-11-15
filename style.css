@@ -16,7 +16,7 @@ header a{
   }
   header nav ul{
     padding: 0px;
-    margin-top: 40px;
+    margin: 0 0 40 0px;
   }
  nav ul li{
     display: inline;
