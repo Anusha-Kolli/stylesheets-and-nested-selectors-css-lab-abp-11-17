@@ -6,7 +6,7 @@ body {
   padding: 0 30px 0 30px;
 
 }
-header {
+header a{
   text-decoration: none;
   }
 header ul li{
