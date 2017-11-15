@@ -10,12 +10,13 @@ header{
   border-bottom: 1px solid #ccc;
   height:100px;
 }
-header nav{
+nav{
   float: right;
 }
+
 nav ul{
-  padding: 0px;
-  margin-top:40px;
+  padding: 0;
+  margin:40px 0 0 0;
 }
 header nav ul li{
    display: inline;
