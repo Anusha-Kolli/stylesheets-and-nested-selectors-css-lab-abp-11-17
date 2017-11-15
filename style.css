@@ -8,6 +8,7 @@ body {
 }
 header{
   border-bottom: 1px solid #ccc;
+  height:100px;
 }
 header a{
   text-decoration: none;
@@ -21,4 +22,3 @@ header h3 a{
   color: #ccc;
   padding-left:30px;
 }
-
