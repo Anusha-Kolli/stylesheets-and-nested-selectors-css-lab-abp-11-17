@@ -23,7 +23,10 @@ header nav ul li{
 }
 header nav{
   float: right;
-  
+
+}
+nav ul{
+  padding: 0px;
 }
 
 header h3 a{
