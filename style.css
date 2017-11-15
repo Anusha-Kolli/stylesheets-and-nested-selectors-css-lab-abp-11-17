@@ -28,4 +28,5 @@ header h3 a{
 #jumbotron{
   text-align: center;
   display:block;
+  background: #ccc;
 }
