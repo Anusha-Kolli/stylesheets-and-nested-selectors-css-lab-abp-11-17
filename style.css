@@ -10,7 +10,7 @@ header{
   border-bottom: 1px solid #ccc;
   height:100px;
 }
-nav a{
+header a{
   text-decoration: none;
   }
 nav ul li{
