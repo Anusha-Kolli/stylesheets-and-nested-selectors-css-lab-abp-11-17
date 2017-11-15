@@ -1,9 +1,10 @@
 * {
   font-family: "Helvetica", "Arial", "san-serif";
-  background-color: red;
-  
+
+
 }
 
 body {
   padding: 0 30px 0 30px;
+  background: red;
 }
