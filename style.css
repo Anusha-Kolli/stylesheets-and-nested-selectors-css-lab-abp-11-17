@@ -18,11 +18,12 @@ header a{
   header nav ul{
     padding: 0px;
     margin-top: 40px;
+      display: inline;
   }
 
 header nav{
   float: right;
-  display: inline;
+
 }
 
 header h3 a{
