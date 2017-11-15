@@ -6,7 +6,6 @@ body {
   padding: 0 30px 0 30px;
 
 }
-header ul a{
+header a{
   text-decoration: none;
-  display:inline;
 }
