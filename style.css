@@ -15,10 +15,11 @@ header a{
   text-decoration: none;
   color: #42dff4;
   }
-header nav ul li{
+header nav ul {
   display: inline;
   margin-right:10px;
   float: right;
+  padding:0px;
 
 }
 header nav{
