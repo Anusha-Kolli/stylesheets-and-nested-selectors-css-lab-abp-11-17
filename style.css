@@ -13,14 +13,15 @@ header{
 header nav{
   float: right;
 }
+header nav ul{
+  padding: 0px;
+  margin: 40px 0px 0px 0px;
+}
 header a{
   text-decoration: none;
   color: #42dff4;
   }
-  header nav ul{
-    padding: 0px;
-    margin: 40px 0px 0px 0px;
-  }
+
  header nav ul li{
     display: inline;
     margin-right:10px;
