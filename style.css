@@ -24,9 +24,7 @@ header nav ul li{
 header nav{
   float: right;
 }
-header nav ul{
-  padding: opx;
-}
+
 header h3 a{
   color: #ccc;
   padding-left:30px;
