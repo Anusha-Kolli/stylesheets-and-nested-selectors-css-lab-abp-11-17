@@ -7,7 +7,7 @@ body {
 
 }
 header{
-  margin-bottom: 10px solid #ccc;
+  border-bottom: 10px solid #ccc;
 }
 header a{
   text-decoration: none;
