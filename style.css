@@ -15,9 +15,10 @@ header a{
   text-decoration: none;
   color: #42dff4;
   }
-nav ul li{
+header nav ul li{
   display: inline;
   margin-right:10px;
+  float: right;
 
 }
 header nav{
@@ -31,4 +32,3 @@ header h3 a{
   padding-left:30px;
   font-size:30px;
 }
-
