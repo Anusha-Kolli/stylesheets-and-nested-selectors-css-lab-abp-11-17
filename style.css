@@ -21,11 +21,12 @@ header a{
   }
 
 header nav ul li{
-  display: inline;
+  
 
 }
 header nav{
   float: right;
+  display: inline;
 }
 
 header h3 a{
