@@ -10,6 +10,9 @@ header{
   border-bottom: 1px solid #ccc;
   height:100px;
 }
+header nav{
+  float: right;
+}
 header a{
   text-decoration: none;
   color: #42dff4;
@@ -23,9 +26,7 @@ header a{
     margin-right:10px;
   }
 
-header nav{
-  float: right;
-}
+
 
 header h3 a{
   color: #ccc;
