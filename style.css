@@ -18,10 +18,10 @@ header a{
   header nav ul{
     padding: 0px;
     margin-top: 40px;
-  
   }
 
 header nav{
+  display: inline;
   float: right;
 
 }
